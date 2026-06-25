@@ -1,3 +1,3 @@
-safetyinfo=google/Google/blazer/blazer_beta/Pixel 10 Pro/ZP11.260417.009/2026-06-20/32/CANARY
+safetyinfo=google/Google/mustang/mustang_beta/Pixel 10 Pro XL/ZP11.260515.009/2026-06-01/32/CANARY
 
-safetyfing=google/blazer_beta/blazer:CANARY/ZP11.260417.009/15372612:user/release-keys
+safetyfing=google/mustang_beta/mustang:CANARY/ZP11.260515.009/15513807:user/release-keys
