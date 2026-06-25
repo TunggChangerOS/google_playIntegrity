@@ -1,3 +1,3 @@
-safetyinfo=google/Google/blazer/blazer/Pixel 10 Pro/CP2A.260605.012/2026-06-05/37/17
+safetyinfo=google/Google/blazer_beta/blazer/Pixel 10 Pro/ZP11.260515.009/2026-06-01/32/CANARY
 
-safetyfing=google/blazer/blazer:17/CP2A.260605.012/15430684:user/release-keys
+safetyfing=google/blazer_beta/blazer:CANARY/ZP11.260515.009/15513807:user/release-keys
